@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="5" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="sfdcsuite" duration-ms="78214" started-at="2019-07-21T21:50:12Z" finished-at="2019-07-21T21:51:31Z">
+    <groups>
+    </groups>
+    <test name="testngTest" duration-ms="78214" started-at="2019-07-21T21:50:12Z" finished-at="2019-07-21T21:51:31Z">
+      <class name="automationScriptsWithReusableMethods.AutomationScriptsTest">
+        <test-method status="PASS" signature="initialize_driver()[pri:0, instance:automationScriptsWithReusableMethods.AutomationScriptsTest@1f021e6c]" name="initialize_driver" is-config="true" duration-ms="4106" started-at="2019-07-21T21:50:12Z" finished-at="2019-07-21T21:50:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize_driver -->
+        <test-method status="PASS" signature="navigateToSFDC()[pri:1, instance:automationScriptsWithReusableMethods.AutomationScriptsTest@1f021e6c]" name="navigateToSFDC" duration-ms="23407" started-at="2019-07-21T21:50:17Z" finished-at="2019-07-21T21:50:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToSFDC -->
+        <test-method status="PASS" signature="checkRememberMe()[pri:2, instance:automationScriptsWithReusableMethods.AutomationScriptsTest@1f021e6c]" name="checkRememberMe" duration-ms="33784" started-at="2019-07-21T21:50:40Z" finished-at="2019-07-21T21:51:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkRememberMe -->
+        <test-method status="PASS" signature="forgotPassword4A()[pri:3, instance:automationScriptsWithReusableMethods.AutomationScriptsTest@1f021e6c]" name="forgotPassword4A" duration-ms="16273" started-at="2019-07-21T21:51:14Z" finished-at="2019-07-21T21:51:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- forgotPassword4A -->
+        <test-method status="PASS" signature="logger()[pri:0, instance:automationScriptsWithReusableMethods.AutomationScriptsTest@1f021e6c]" name="logger" is-config="true" duration-ms="613" started-at="2019-07-21T21:51:30Z" finished-at="2019-07-21T21:51:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logger -->
+      </class> <!-- automationScriptsWithReusableMethods.AutomationScriptsTest -->
+    </test> <!-- testngTest -->
+  </suite> <!-- sfdcsuite -->
+</testng-results>

@@ -1,0 +1,7 @@
+<suite name="sfdcsuite"> 
+<test name="testngTest"> 
+<classes> 
+<class name="automationScriptsWithReusableMethods.AutomationScriptsTest" /> 
+</classes> 
+</test> 
+</suite>
